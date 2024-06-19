@@ -1,490 +1,80 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718836763121 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718840030090 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836766214 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840033140 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836769348 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840036211 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836772479 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840039291 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836775525 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840042383 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836778560 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840045431 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836781616 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840048489 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836784678 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840051550 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836787733 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840054600 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836790792 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840057642 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836793853 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840060706 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836796906 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840063759 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836799945 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840066820 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836803011 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840069872 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836806088 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840072916 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836809141 tunnel running, 1 tunnels registered
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718840075956 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836812208 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836815322 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836818411 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836821455 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836824496 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836827557 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836830612 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836833649 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836836700 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836839744 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836842800 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836845853 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836848903 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836851945 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836855001 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836858051 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836861096 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836864161 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836867218 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836870273 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836873314 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836876362 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836879407 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836882451 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836885507 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836888597 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836891655 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836894712 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836897749 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836900789 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836903853 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836907086 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836910130 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836913188 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836916222 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836919252 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836922286 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836925327 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836928374 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836931430 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836934537 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836937595 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836940702 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836943885 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836946940 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836949997 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836953036 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836956072 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836959153 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836962233 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836965267 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836968304 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836971362 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836974411 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836977469 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836980543 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836983648 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836986717 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836989757 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836992819 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836995899 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718836998953 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837002023 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837005084 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837008161 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837011238 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837014276 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837017316 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837020365 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837023411 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837026497 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837029546 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837032622 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837035666 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837038708 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837041772 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837044807 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837047854 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837050986 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837054028 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837057077 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718837060128 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-metal-instead.gl.at.ply.gg:27742 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
