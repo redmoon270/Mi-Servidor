@@ -1,24 +1,29 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718840417297 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718841304573 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718840420344 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718841307640 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718840423427 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718841310676 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718840426471 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718841313744 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718840429520 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718841316799 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rest-criticism.gl.at.ply.gg:27750 => 127.0.0.1:1365 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718841319850 tunnel running, 1 tunnels registered
 
 
 TUNNELS
