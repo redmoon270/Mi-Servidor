@@ -14,7 +14,7 @@
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "d1b28a0f-e636-4f4d-acdf-83ea5e136a04",
+          "id": "d70386a7-b9c4-4639-9ff4-06075bc37927",
           "ip_hostname": "16.ip.gl.ply.gg",
           "ip_type": "both",
           "port_end": 27743,
@@ -25,12 +25,12 @@
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-19T22:21:33.432887Z",
+      "created_at": "2024-06-19T22:36:13.838280Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "225e955e-3812-4935-b3b2-798778e49487",
+      "id": "d34d1b06-1110-44a2-818f-4a481be1c65b",
       "name": "unnamed",
       "origin": {
         "data": {
